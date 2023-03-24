@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola mi nombre es Paco Banda 👋
+
+
+soy un usuario al que le apasiona el mundo de la informatica, pronto subiré mis archivos
 
 <!--
 **PacoBanda/PacoBanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
